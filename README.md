@@ -1,0 +1,2 @@
+# bashuroki
+learn bash
